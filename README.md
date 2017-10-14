@@ -1,2 +1,2 @@
 # ArrayViewsMVC
-Desarrollo de Aplicaciones | 09_octubre 2017 | MVC
+Desarrollo de Aplicaciones | 09_Octubre 2017 | MVC
